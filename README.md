@@ -6,4 +6,4 @@
 
 💼 Future goals: Master DevOps, explore cloud deployment, and refine full-stack expertise.
 
-💡 Fun fact: I started out in BA but pivoted to BTech in CSE the second I found my love for code.
+💡 Fun fact: I started out in Economics Major but pivoted to BTech in CSE the second I found my love for code.

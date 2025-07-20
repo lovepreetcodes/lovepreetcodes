@@ -60,8 +60,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Xannyy01&theme=transparent&hide_border=true&show_icons=true&custom_title=My+GitHub+Stats&title_color=e9c46a&text_color=e9c46a&icon_color=e9c46a" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=Xannyy01&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=e9c46a&fire=e9c46a&currStreakLabel=e9c46a&sideNums=e9c46a&sideLabels=e9c46a" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lovepreetcodes&theme=transparent&hide_border=true&show_icons=true&custom_title=My+GitHub+Stats&title_color=e9c46a&text_color=e9c46a&icon_color=e9c46a" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=lovepreetcodes&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=e9c46a&fire=e9c46a&currStreakLabel=e9c46a&sideNums=e9c46a&sideLabels=e9c46a" height="170"/>
 </p>
 
 
@@ -76,7 +76,7 @@
   <a href="https://www.linkedin.com/in/lovepreet-s-9b158b331/">
     <img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://github.com/Xannyy01">
+  <a href="https://github.com/lovepreetcodes">
     <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 
@@ -96,7 +96,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Xannyy01&theme=github-compact&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lovepreetcodes&theme=github-compact&area=true&hide_border=true" />
 </p>
 
 

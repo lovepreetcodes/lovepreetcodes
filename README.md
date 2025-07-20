@@ -1,22 +1,20 @@
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmU4amwwd3FuZ2lxczd3ZG02MDAxc3dkd2Zua2gwbjNjcGg2anNiciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" width="40%" alt="Header GIF" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="footer wave" width="100%" />
 </p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&center=true&vCenter=true&color=8338ec&width=450&lines=Hey+there%2C+I'm+Lovepreet!;Crafting+code+with+passion+%26+precision!" alt="Typing SVG" />
-</h1>
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=6a994e&center=true&vCenter=true&width=435&lines=Hey+There!+I'm+Lovepreet.;Full+Stack+Developer;Loves+Building+Clean+UIs;DevOps+and+System+Design+Learner" />
+</h3>
+
 
 ---
 
-<p align="center">
-  <a href="mailto:loveiesharma69@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/lovepreet-s-9b158b331/"><img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/Xannyy01"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"></a>
-</p>
+
 
 ---
 
 ## 🚀 Tech Stack
+
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,python,cpp,postman,docker,aws,git,github" />
@@ -40,14 +38,13 @@
 
 ---
 
-## 🌱 Currently Exploring
+### 🚧 Currently Learning & Building
+<p align="center">
+  <img src="https://img.shields.io/badge/System%20Design-In%20Progress-yellow?style=for-the-badge&logo=gear" />
+  <img src="https://img.shields.io/badge/AWS%20Cloud-Learning-orange?style=for-the-badge&logo=amazonaws" />
+  <img src="https://img.shields.io/badge/DevOps-Tooling-blue?style=for-the-badge&logo=docker" />
+</p>
 
-- ⚙️ High-Level System Design & DevOps
-- ☁️ Advanced AWS + Docker Orchestration
-- 🧠 Building AI-integrated apps with Python
-- 🔒 Scalable chat architectures beyond Firebase
-
----
 
 ## 📊 GitHub Stats
 
@@ -63,9 +60,17 @@
 
 <div align="center">
   <a href="mailto:loveiesharma69@gmail.com">
-    <img src="https://img.shields.io/badge/📨%20Send%20a%20Mail-00BFFF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Button">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
+  <a href="https://www.linkedin.com/in/lovepreet-s-9b158b331/">
+    <img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/Xannyy01">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+
 </div>
+
 
 ---
 
@@ -78,15 +83,18 @@
 
 ---
 
-## 🔥 GitHub Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Xannyy01&theme=github-compact&custom_title=My%20GitHub%20Activity%20Graph" width="90%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Xannyy01&theme=github-compact&area=true&hide_border=true" />
 </p>
+
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/waves/wave-purple.svg" alt="Footer Wave" width="100%" />
+
+  </svg>
+</p>
+<p align="center" style="color:#aaa;">
+  Made with 💜 by Lovepreet — Crafting tech with thoughtful design.
 </p>
 

@@ -3,7 +3,7 @@
 </p>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6a994e&center=true&vCenter=true&width=435&lines=Hey+There!+I'm+Lovepreet.;Full+Stack+Developer;Loves+Building+Clean+UIs;DevOps+and+System+Design+Learner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6a994e&center=true&vCenter=true&width=435&lines=Hey+There!+I'm+Lovepreet.;Full+Stack+Developer;Building+Clean+UIs;DevOps+and+System+Design+Learner" />
 </h3>
 
 ---

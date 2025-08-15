@@ -38,7 +38,7 @@
 <div align="center">
 
 <a href="https://github.com/Xannyy01/Whispr-Chat-App">
-  <img src="https://img.shields.io/badge/🟣%20Whispr%20Chat%20App-Full%20Stack%20Messaging-informational?style=for-the-badge&logo=appveyor&color=7B3FA0" alt="Whispr Project"/>
+  <img src="https://img.shields.io/badge/🟣%20Yapp%20Chat%20App-Full%20Stack%20Messaging-informational?style=for-the-badge&logo=appveyor&color=7B3FA0" alt="Whispr Project"/>
 </a>
 
 <a href="https://github.com/Xannyy01/Python-Projects">

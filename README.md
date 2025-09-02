@@ -11,6 +11,7 @@
     <img src="https://img.shields.io/badge/Building_Clean_UIs-20232A?style=for-the-badge&logo=styled-components&logoColor=DB7093">
     <img src="https://img.shields.io/badge/DevOps-20232A?style=for-the-badge&logo=docker&logoColor=2496ED">
 </p>
+
 ## ⚒️ My Tech Toolbox
 
 <p align="center">
@@ -36,66 +37,81 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </p>
 
-## 💼 Featured Projects
+## 💼 Featured Projects  
 
-<div align="center">
+<div align="center"> <a href="https://github.com/Xannyy01/Whispr-Chat-App"> <img src="https://img.shields.io/badge/🟣%20Yapp%20Chat%20App-Full%20Stack%20Messaging-informational?style=for-the-badge&logo=appveyor&color=7B3FA0" alt="Whispr Project"/> </a> <a href="https://github.com/Xannyy01/Python-Projects"> <img src="https://img.shields.io/badge/🎵%20AI%20Song%20Picker-Python%20Automation-critical?style=for-the-badge&logo=python&color=6a994e" alt="AI Song Picker"/> </a> </div> <p align="center"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" /> </p>
 
-<a href="https://github.com/Xannyy01/Whispr-Chat-App">
-  <img src="https://img.shields.io/badge/🟣%20Yapp%20Chat%20App-Full%20Stack%20Messaging-informational?style=for-the-badge&logo=appveyor&color=7B3FA0" alt="Whispr Project"/>
-</a>
 
-<a href="https://github.com/Xannyy01/Python-Projects">
-  <img src="https://img.shields.io/badge/🎵%20AI%20Song%20Picker-Python%20Automation-critical?style=for-the-badge&logo=python&color=ff69b4" alt="AI Song Picker"/>
-</a>
-
-</div>
+### 🚧 Currently Learning & Building  
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-</p>
-
-### 🚧 Currently Learning & Building
-<p align="center">
-  <img src="https://img.shields.io/badge/System%20Design-In%20Progress-yellow?style=for-the-badge&logo=gear" />
-  <img src="https://img.shields.io/badge/AWS%20Cloud-Learning-orange?style=for-the-badge&logo=amazonaws" />
-  <img src="https://img.shields.io/badge/DevOps-Tooling-blue?style=for-the-badge&logo=docker" />
+  <img src="https://img.shields.io/badge/System%20Design-Architecting-informational?style=for-the-badge&logo=diagram&logoColor=white&color=blueviolet" />
+  <img src="https://img.shields.io/badge/AWS%20Cloud-Scaling-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/DevOps-Automation-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lovepreetcodes&theme=transparent&hide_border=true&show_icons=true&custom_title=My+GitHub+Stats&title_color=e9c46a&text_color=e9c46a&icon_color=e9c46a" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=lovepreetcodes&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=e9c46a&fire=e9c46a&currStreakLabel=e9c46a&sideNums=e9c46a&sideLabels=e9c46a" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lovepreetcodes&theme=transparent&hide_border=true&show_icons=true&custom_title=My+GitHub+Stats&title_color=e9c46a&text_color=ffffff&icon_color=e9c46a" height="170"/>
+
 </p>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-</p>
-
-## 📬 Contact Me
+## 📬 Contact Me  
 
 <div align="center">
   <a href="mailto:loveiesharma69@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/-Email-e63946?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://www.linkedin.com/in/lovepreet-s-9b158b331/">
-    <img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/-LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://github.com/lovepreetcodes">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
+</div>
+
 
 </div>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </p>
-## ⚡ Hobbies & Personal Side
 
-- 🏋️ Working out and staying fit
-- 👨‍💻 Building side projects solo
-- 🔍 Exploring real-world system design problems
-- 🧠 Continuously pushing my creative + tech limits
+
+## ⚡ Hobbies & Personal Side  
+
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="200">
+      <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f3cb.svg" width="40" height="40" alt="fitness"/>
+      <br>🏋️ <b>Working Out</b>
+      <br><sub>Staying fit & active</sub>
+    </td>
+    <td align="center" width="200">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="projects"/>
+      <br>👨‍💻 <b>Side Projects</b>
+      <br><sub>Solo building & tinkering</sub>
+    </td>
+    <td align="center" width="200">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40" alt="system design"/>
+      <br>🔍 <b>System Design</b>
+      <br><sub>Exploring real-world problems</sub>
+    </td>
+    <td align="center" width="200">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="creativity"/>
+      <br>🧠 <b>Creative + Tech</b>
+      <br><sub>Pushing my limits</sub>
+    </td>
+  </tr>
+</table>
+</div>
+
+
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </p>
@@ -113,6 +129,10 @@
 
   </svg>
 </p>
+
+
+
+
 <p align="center" style="color:#aaa;">
   Made with 💜 by Lovepreet — Crafting tech with thoughtful design.
 </p>

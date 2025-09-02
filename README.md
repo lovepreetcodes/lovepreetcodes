@@ -6,7 +6,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6a994e&center=true&vCenter=true&width=435&lines=Hey+There!+I'm+Lovepreet.;Full+Stack+Developer;Building+Clean+UIs;DevOps+and+System+Design+Learner" />
 </h3>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</p>
 
 ## ⚒️ My Tech Toolbox
 
@@ -29,9 +31,9 @@
 </p>
 
 
-
-
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</p>
 
 ## 💼 Featured Projects
 
@@ -47,7 +49,9 @@
 
 </div>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</p>
 
 ### 🚧 Currently Learning & Building
 <p align="center">
@@ -64,8 +68,9 @@
   <img src="https://streak-stats.demolab.com?user=lovepreetcodes&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=e9c46a&fire=e9c46a&currStreakLabel=e9c46a&sideNums=e9c46a&sideLabels=e9c46a" height="170"/>
 </p>
 
-
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</p>
 
 ## 📬 Contact Me
 
@@ -81,18 +86,18 @@
   </a>
 
 </div>
-
-
----
-
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</p>
 ## ⚡ Hobbies & Personal Side
 
 - 🏋️ Working out and staying fit
 - 👨‍💻 Building side projects solo
 - 🔍 Exploring real-world system design problems
 - 🧠 Continuously pushing my creative + tech limits
-
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</p>
 
 
 <p align="center">
@@ -100,7 +105,9 @@
 </p>
 
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</p>
 
 
   </svg>

@@ -20,8 +20,8 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            # Output for a dark theme with green dots and a blue snake
-            dist/dark-green-blue-snake.gif?palette=github-dark&color_snake=blue&color_dots=#0e4429,#006d32,#26a641,#39d353
+            # Output for a dark theme, transparent background, bright green dots, and a white snake
+            dist/dark-theme-snake.gif?color_snake=white&color_dots=#ebedf0,#9be9a8,#40c463,#30a14e,#216e39
 
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:

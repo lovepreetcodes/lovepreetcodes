@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/lovepreetcodes/lovepreetcodes/output/dark-theme-snake.gif" alt="Snake contribution animation">
+  <img src="https://raw.githubusercontent.com/lovepreetcodes/lovepreetcodes/output/snake.svg" alt="Snake contribution animation">
 </p>
+
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hey+There!+I'm+Lovepreet.;Full+Stack+Developer;Building+Clean+%26+Modern+UIs;DevOps+%26+System+Design+Enthusiast" />
 </h3>

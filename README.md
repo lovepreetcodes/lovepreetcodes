@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/lovepreetcodes/lovepreetcodes/output/ocean.gif" alt="Snake contribution animation">
+  <img src="https://raw.githubusercontent.com/lovepreetcodes/lovepreetcodes/output/dark-theme-snake.gif" alt="Snake contribution animation">
 </p>
 
 <h3 align="center">

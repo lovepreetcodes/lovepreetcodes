@@ -1,15 +1,15 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/lovepreetcodes/lovepreetcodes/output/dark-theme-snake.gif" alt="Snake contribution animation">
 </p>
-
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6a994e&center=true&vCenter=true&width=435&lines=Hey+There!+I'm+Lovepreet.;Full+Stack+Developer;Building+Clean+UIs;DevOps+and+System+Design+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hey+There!+I'm+Lovepreet.;Full+Stack+Developer;Building+Clean+%26+Modern+UIs;DevOps+%26+System+Design+Enthusiast" />
 </h3>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+    <img src="https://img.shields.io/badge/Full_Stack_Developer-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+    <img src="https://img.shields.io/badge/Building_Clean_UIs-20232A?style=for-the-badge&logo=styled-components&logoColor=DB7093">
+    <img src="https://img.shields.io/badge/DevOps-20232A?style=for-the-badge&logo=docker&logoColor=2496ED">
 </p>
-
 ## ⚒️ My Tech Toolbox
 
 <p align="center">

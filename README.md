@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="footer wave" width="100%" />
+  <img src="https://raw.githubusercontent.com/lovepreetcodes/lovepreetcodes/output/ocean.gif" alt="Snake contribution animation">
 </p>
 
 <h3 align="center">

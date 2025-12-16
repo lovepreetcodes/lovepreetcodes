@@ -35,7 +35,7 @@
 
 ## 💼 Featured Projects  
 
-<div align="center"> <a href="https://github.com/Xannyy01/Whispr-Chat-App"> <img src="https://img.shields.io/badge/🟣%20Yapp%20Chat%20App-Full%20Stack%20Messaging-informational?style=for-the-badge&logo=appveyor&color=7B3FA0" alt="Whispr Project"/> </a> <a href="https://github.com/Xannyy01/Python-Projects"> <img src="https://img.shields.io/badge/🎵%20AI%20Song%20Picker-Python%20Automation-critical?style=for-the-badge&logo=python&color=6a994e" alt="AI Song Picker"/> </a> </div> <p align="center"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" /> </p>
+<div align="center"> <a href="https://github.com/lovepreetcodes/Yapp-Chat-App"> <img src="https://img.shields.io/badge/🟣%20Yapp%20Chat%20App-Full%20Stack%20Messaging-informational?style=for-the-badge&logo=appveyor&color=7B3FA0" alt="Whispr Project"/> </a> <a href="https://github.com/lovepreetcodes/makeAwish"> <img src="https://img.shields.io/badge/🎵%20%20%20Make A Wish-Python%20Automation-critical?style=for-the-badge&logo=python&color=6a994e" alt="AI Song Picker"/> </a> </div> <p align="center"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" /> </p>
 
 
 ### 🚧 Currently Learning & Building  
